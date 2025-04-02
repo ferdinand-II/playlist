@@ -220,6 +220,9 @@ https://s25617.cdn.ngenix.net/mdrm/CH_OCEANTV/manifest.mpd?token=YWY2I5NDZlOWE0M
 #EXTINF:-1 group-title="Кино",Plan B HD
 https://s25617.cdn.ngenix.net/mdrm/CH_PLANBHD/manifest.mpd?token=wUY2Y3ZjFiNDliOGFmOTJiYWE1NzZkMGQ0MDJlY2NmNTQ=
 
+#EXTINF:-1 group-title="Кино",Timeless Dizi Channel
+https://s25617.cdn.ngenix.net/mdrm/CH_TDCHD/manifest.mpd?token=pmNzgzZWQxZTNjMjFkZjYzODgwOWUyMjdjZDZjYjI1YmE=
+
 #EXTINF:-1 group-title="Развлекательные",QUADRO ⁴ᴷ
 https://s25617.cdn.ngenix.net/mdrm/CH_QUADRO4K/manifest.mpd?token=etNTAyNjk2NmQ4NzY4MzkzM2JkMzhlZDBkMTgxMGZiMmE=
 
