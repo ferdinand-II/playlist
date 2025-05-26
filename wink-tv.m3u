@@ -217,6 +217,9 @@ https://s25617.cdn.ngenix.net/mdrm/CH_C05_MYZENTVHD/manifest.mpd?token=dQZjVlODk
 #EXTINF:-1 group-title="Познавательные",Ocean-TV
 https://s25617.cdn.ngenix.net/mdrm/CH_OCEANTV/manifest.mpd?token=YWY2I5NDZlOWE0MWRmM2IyZTE4OTUzNzc3ZTc2NGQ2YjY
 
+#EXTINF:-1 group-title="Познавательные",Ocean-TV HD
+https://s25617.cdn.ngenix.net/mdrm/CH_OCEANTV/manifest.mpd?token=UkZWYzNmIyZTUxZTU3ZmIyMGZlMzJjN2NiMWMxMzc1ZDY
+
 #EXTINF:-1 group-title="Кино",Plan B HD
 https://s25617.cdn.ngenix.net/mdrm/CH_PLANBHD/manifest.mpd?token=wUY2Y3ZjFiNDliOGFmOTJiYWE1NzZkMGQ0MDJlY2NmNTQ=
 
