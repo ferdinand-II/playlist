@@ -171,6 +171,9 @@ https://s25617.cdn.ngenix.net/mdrm/CH_GULLI/manifest.mpd?token=KkMzVkNGNiYmQ5ZTB
 #EXTINF:-1 group-title="Кино",Hollywood HD
 https://s25617.cdn.ngenix.net/mdrm/CH_HOLLYWOODHD/manifest.mpd?token=25ODA5Njc4OWViYzFjNTAzM2JiZDlkZjUyNDViNjY5YTg
 
+#EXTINF:-1 group-title="Взрослые",Hustler HD
+https://s25617.cdn.ngenix.net/mdrm/CH_HUSTLERHD/manifest.mpd?token=ewYjIzOGIxNGRkNmM0NDVkY2Y0YjkzNzA0Njc1Mzg5MmM
+
 #EXTINF:-1 group-title="Спорт",KHL Prime HD
 https://s25617.cdn.ngenix.net/mdrm/CH_KHLPRIMEHD/manifest.mpd?token=85MjA4YzBkZjQ3MDY3OGEzNDNhYTFiMmQ5MGUyOTdmNzY
 
@@ -222,6 +225,9 @@ https://s25617.cdn.ngenix.net/mdrm/CH_OCEANTVHD/manifest.mpd?token=25YzMwNWQzMDk
 #EXTINF:-1 group-title="Кино",Plan B HD
 https://s25617.cdn.ngenix.net/mdrm/CH_PLANBHD/manifest.mpd?token=vvMjg2YjZjOTQ0OTM1NTg1ZmE3ZTdhMTIwZTJiMzI2N2Y
 
+#EXTINF:-1 group-title="Взрослые",Private HD
+https://s25617.cdn.ngenix.net/mdrm/CH_PRIVATEHD/manifest.mpd?token=ddNGZkODQxOTYwYTBlYjk0MTRhNTRiMTBiYzQ3NjRlMjY
+
 #EXTINF:-1 group-title="Развлекательные",QUADRO ⁴ᴷ
 https://s25617.cdn.ngenix.net/mdrm/CH_QUADRO4K/manifest.mpd?token=SdMDI5MGI0MjA2NWQzZjZlNjdjNzRjMTljNjlmZmNlYWE
 
@@ -245,6 +251,9 @@ https://s25617.cdn.ngenix.net/mdrm/CH_RUTVHD/manifest.mpd?token=7hOWJlYmFhZDYyNm
 
 #EXTINF:-1 group-title="Спорт",Russian Extreme Ultra
 https://s25617.cdn.ngenix.net/mdrm/CH_RUSSIANEXTREMEULTRA_ENC/manifest.mpd?token=ikNDBkY2QwYTI3ZTU0MzRmNjJhNGQ5YmQwNzQ1YzY0OGE
+
+#EXTINF:-1 group-title="Спорт",Russian Extreme Ultra
+https://s25617.cdn.ngenix.net/mdrm/CH_RUSSIANEXTREMEULTRA/manifest.mpd?token=FgZDIzMTY1NzczN2VlMWQ0YzIzMDFiZGJhYzBhNmM3YzM
 
 #EXTINF:-1 group-title="Мужские",Russian Extreme HD
 https://s25617.cdn.ngenix.net/mdrm/CH_RUSSIANEXTREMEHD/manifest.mpd?token=5fZGI4ZTJlODE0NmYzMjZhZTUwMmJjNjQzYTlmYTFiYzE
@@ -297,8 +306,17 @@ https://s25617.cdn.ngenix.net/mdrm/CH_TRAVELANDADVENTUREHD/manifest.mpd?token=ef
 #EXTINF:-1 group-title="Познавательные",TV BRICS HD
 https://s25617.cdn.ngenix.net/mdrm/CH_TVBRICSHD/manifest.mpd?token=srMWI0OWI4Y2U1ODI5NmExODZiOGFkNzQ3NWMyZDZlMmM
 
+#EXTINF:-1 group-title="Развлекательные",TVM Channel
+https://s25617.cdn.ngenix.net/mdrm/CH_TVMCHANNEL/manifest.mpd?token=77MTU1ZGExOGJiYjA1MmEyOWRmMWRmMzg1ZTQ5M2Y4ZDM
+
 #EXTINF:-1 group-title="Кино",Ultra HD Cinema
 https://s25617.cdn.ngenix.net/mdrm/CH_ULTRAHDCINEMA_ENC/manifest.mpd?token=weZGI3M2RkMDMyYTllNTQ5NDQxNjViN2RhNjA1MGM3NWI
+
+#EXTINF:-1 group-title="Кино",Ultra HD Cinema
+https://s25617.cdn.ngenix.net/mdrm/CH_ULTRAHDCINEMA/manifest.mpd?token=KjNmI0Nzk5NzI2YjZhNzZkNDU5OTM4NThmOWE4YWQxYTk
+
+#EXTINF:-1 group-title="Познавательные",UNIVER TV
+http://s25617.cdn.ngenix.net/mdrm/CH_UNIVERTVHD/manifest.mpd?token=RtM2I3MzE0M2U1MTZkMTExNzA0MTUxODA5NTBkNjA0NTg
 
 #EXTINF:-1 group-title="Кино",VHS-KA HD
 https://s25617.cdn.ngenix.net/mdrm/CH_VHSKAHD/manifest.mpd?token=hdOTAxMGRhZTM1MjEwYjY4YjA4MGRkMmI4ODUwYWIzNDk
@@ -405,6 +423,9 @@ https://s25617.cdn.ngenix.net/mdrm/CH_VOSTOKTV/manifest.mpd?token=5hODJkY2YzYjUz
 #EXTINF:-1 group-title="Познавательные",Время
 https://s25617.cdn.ngenix.net/mdrm/CH_VREMYADIB/manifest.mpd?token=22NDY3ZWI5ZjQyMzk0MTA5MjhmZjAxYzU5ZGQ1ZWRjOTY
 
+#EXTINF:-1 group-title="Познавательные",Время
+https://s25617.cdn.ngenix.net/mdrm/CH_VREMYA/manifest.mpd?token=XsZDllZDQwNTY2YjdiYmQyOTA1ZTM0MGY2NjBhMTUzM2I
+
 #EXTINF:-1 group-title="Информационные",Всё ТВ HD
 https://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
 
@@ -455,6 +476,9 @@ https://s25617.cdn.ngenix.net/mdrm/CH_DRIVEHD/manifest.mpd?token=AsMTA0ZWM5ZjhlZ
 
 #EXTINF:-1 group-title="Информационные",Дума ТВ
 https://s25617.cdn.ngenix.net/mdrm/CH_DUMATV/manifest.mpd?token=TrMWQ1ZmQ4M2M0OTQwMDc0MzJiOTRiMjViMDJiODZhNzM
+
+#EXTINF:-1 group-title="Кино",Еврокино
+https://s25617.cdn.ngenix.net/mdrm/CH_EUROKINO/manifest.mpd?token=2kMjQ1MzliOWJmOGViMTY1NTQ0NzQ0NWI2MjYyODgxMmM
 
 #EXTINF:-1 group-title="Познавательные",ЕГЭ
 https://s25617.cdn.ngenix.net/mdrm/CH_EGE/manifest.mpd?token=FdODU0MWVjMGNkOTQwZDhmYTlkNmE4NGEyMGZhNjZkOGE
@@ -534,6 +558,9 @@ https://s25617.cdn.ngenix.net/mdrm/CH_NTVPLUSKINO/manifest.mpd?token=SwMzk3OGVlZ
 #EXTINF:-1 group-title="Детские",КиноМульт
 https://s25617.cdn.ngenix.net/mdrm/CH_KINOMULT/manifest.mpd?token=RRMGEyNjc0N2FiYzM2MzIxMTdjOTI0NmE3NDY0NTE5OGQ
 
+#EXTINF:-1 group-title="Кино",Кинопоказ
+https://s25617.cdn.ngenix.net/mdrm/CH_KINOPOKAZ/manifest.mpd?token=trOGQwM2U4YzFmYmJkZTYwYjM5MWUwMTgwYWNjYTUxMzk
+
 #EXTINF:-1 group-title="Кино",Кинопоказ HD
 https://s25617.cdn.ngenix.net/mdrm/CH_KINOPOKAZHD/manifest.mpd?token=LkMGM1ZThjN2U5NWExMTFlODJhNmNiZWY0NTIzNmVmMzg
 
@@ -563,6 +590,9 @@ https://s25617.cdn.ngenix.net/mdrm/CH_KOMEDIA/manifest.mpd?token=44NTA1YTYwY2IyM
 
 #EXTINF:-1 group-title="Информационные",Красная Линия
 https://s25617.cdn.ngenix.net/mdrm/CH_REDLINE/manifest.mpd?token=YuY2FmMjc2MGE4NzY2ZjAwYWFjNjVjOGRhNzI2ZDQzOTk
+
+#EXTINF:-1 group-title="Информационные",КРИК-ТВ
+https://s25617.cdn.ngenix.net/mdrm/CH_KRIKTV/manifest.mpd?token=5JZTg1MDVlM2ZhY2IwZmM0ZGE4OTg0ZTIwYTA4YTg3Yzg
 
 #EXTINF:-1 group-title="Познавательные",Кухня
 https://s25617.cdn.ngenix.net/mdrm/CH_KUHNYA/manifest.mpd?token=02OGYyNDUxMjcwMjZiZGM0NGQzNGI3NTJjNmUyOGE4MTk
@@ -704,6 +734,9 @@ https://s25617.cdn.ngenix.net/mdrm/CH_NAUKA20/manifest.mpd?token=45YTcxMWIyNGExN
 
 #EXTINF:-1 group-title="Познавательные",Наша Сибирь ⁴ᴷ
 https://s25617.cdn.ngenix.net/mdrm/CH_NASHASIBIR4K_ENC/manifest.mpd?token=vbZjQxMTYxMGJlNjU4YTgwZTAzMTExZjZkNjA3OGFkZjQ
+
+#EXTINF:-1 group-title="Познавательные",Наша Сибирь ⁴ᴷ
+https://s25617.cdn.ngenix.net/mdrm/CH_NASHASIBIR4K/manifest.mpd?token=GhYzM2NDg4ZjMyYWRmNTZiZWZjYTM3MTgyYWI5NWJmNDI
 
 #EXTINF:-1 group-title="Кино",НАШЕ НОВОЕ КИНО
 https://s25617.cdn.ngenix.net/mdrm/CH_NTVPLUSNOVOEKINO/manifest.mpd?token=56MzY4NmE5YTRiNWJmNTc5NjdjODc1ZmRmZDIzYjRkNzU
@@ -852,6 +885,9 @@ https://s25617.cdn.ngenix.net/mdrm/CH_RUSSIANILLUSION/manifest.mpd?token=nvMWIxM
 #EXTINF:-1 group-title="Кино",Русский Роман HD
 https://s25617.cdn.ngenix.net/mdrm/CH_RUSSKIYROMANHD/manifest.mpd?token=kdMDI4YTYyYjExY2VlYzY3YzAzZDE3NGI3NTNiZTYzZTE
 
+#EXTINF:-1 group-title="Детские",Рыжий
+https://s25617.cdn.ngenix.net/mdrm/CH_RYZHIJ/manifest.mpd?token=sRODcwNmIxODg3MDY4ZWU0MWVlMTQ1OTliODM5OWM2YmI
+
 #EXTINF:-1 group-title="Региональные",Санкт-Петербург HD
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_SPBREGIONALHD/variant.m3u8
 
@@ -991,7 +1027,7 @@ https://s25617.cdn.ngenix.net/mdrm/CH_FUTBALLHD/manifest.mpd?token=guYWNjOWRmZjZ
 https://s25617.cdn.ngenix.net/mdrm/CH_HABARHD/manifest.mpd?token=rfNTI1YjRkNzI3YzU0YThlZjk2Mjc2MDg3MjIxMzhmZDg
 
 #EXTINF:-1 group-title="Кино",Хит HD
-https://s91412.cdn.ngenix.net/mdrm/CH_HITHD/manifest.mpd?token=QoN2YzNDE0NDFiYTFkMGQ5OTcwMDQzMTc3NDZiZTkxMDA
+https://s25617.cdn.ngenix.net/mdrm/CH_HITHD/manifest.mpd?token=QoN2YzNDE0NDFiYTFkMGQ5OTcwMDQzMTc3NDZiZTkxMDA
 
 #EXTINF:-1 group-title="Познавательные",Центральное телевидение
 https://s25617.cdn.ngenix.net/mdrm/CH_CENTRALTV/manifest.mpd?token=45ODk2MmEwOWYzN2JkZmFjNTJiYzU1MDg3ODM3OGNjMDU
